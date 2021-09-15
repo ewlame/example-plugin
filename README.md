@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Wiki Blob
+RuneLite Plugin to export Player Variables to a JSON Blob.
